@@ -1,0 +1,9 @@
+archivo,conductividad,espesor,bobina
+0_aire.csv,0,0,m1
+1_patron.csv,0.6120e6,25e-3,m1
+310_1_p1.csv,1.248e6,3.737e-3,m1
+310_1_p2.csv,1.248e6,3.818e-3,m1
+310_1_p3.csv,1.248e6,3.842e-3,m1
+310_1_p4.csv,1.2520e6,3.877e-3,m1
+310_1_p5.csv,1.2520e6,3.899e-3,m1
+310_1_p6.csv,1.28e6,4.105e-3,m1
